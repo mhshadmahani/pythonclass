@@ -1,0 +1,4 @@
+import numpy as np
+a = np . arange (1 , 255)
+a . shape = (2,127)
+print (a)
